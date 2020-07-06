@@ -1,0 +1,9 @@
+8
+A 
+B l
+C r
+E l l
+M l r
+Q r l
+D r r
+V l l l
